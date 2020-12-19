@@ -1,0 +1,29 @@
+h1{color : #a52a2a}
+
+        .header
+        {
+            background-color: rgb(0, 255, 55);
+            display: flex;
+            justify-content: space-between;
+        }
+        .grid
+        {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-evenly;
+        }
+        .media
+        {
+            display: flex;
+            justify-content: flex-end;
+        }
+        .work
+        {
+            display: flex;
+            flex-direction: column;
+            justify-content: first baseline;
+        }
+        p,h2
+        {
+            text-align: center;
+        }
